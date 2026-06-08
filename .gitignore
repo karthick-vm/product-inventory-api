@@ -1,0 +1,31 @@
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Virtual Environment
+
+prdapp_env/
+venv/
+.env/
+
+# Environment Variables
+
+.env
+
+# Pytest
+
+.pytest_cache/
+
+# VS Code
+
+.vscode/
+
+# Frontend (Tutorial React Code)
+
+frontend/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
