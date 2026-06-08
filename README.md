@@ -48,6 +48,7 @@ A RESTful Product Inventory API built using **FastAPI**, **PostgreSQL**, and **S
 
 * Python
 * FastAPI
+* Pydantic
 * SQLAlchemy
 * PostgreSQL
 * Alembic
